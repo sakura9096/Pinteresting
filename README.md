@@ -1,6 +1,5 @@
-== README
+# Pinteresting
 
-# My first ruby application.
-
-This is a ruby sample application where user can sign up and create pins!
+### Description
+This is a ruby application where user can sign up and create pins!
 
